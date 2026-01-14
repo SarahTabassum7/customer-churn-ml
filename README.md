@@ -1,3 +1,8 @@
+**Quick Access:**  
+- [Open Notebook](./customer_churn_logistic_regression.ipynb)  
+- [Dataset](./Telco-Customer-Churn.csv)
+---
+
 # Customer Churn Prediction (Logistic Regression)
 
 This project builds a **customer churn prediction model** using the **Telco Customer Churn dataset**.  
