@@ -61,6 +61,24 @@ Customers with **longer contracts (1–2 year)** are far less likely to churn, w
 
 ---
 
+## How to Run
+
+Download this repository or clone it:
+
+git clone <your-repo-link>
+
+
+Install required packages:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+Open the notebook:
+
+customer_churn_logistic_regression.ipynb
+
+---
+
 ## Files in this Repository
 - [`customer_churn_logistic_regression.ipynb`](./customer_churn_logistic_regression.ipynb) → Full model pipeline + evaluation plots  
 - [`Telco-Customer-Churn.csv`](./Telco-Customer-Churn.csv) → Dataset used for training/testing  
